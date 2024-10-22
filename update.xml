@@ -1,7 +1,7 @@
 <item>
-   <version>2.3.3</version>
+   <version>2.3.4</version>
    <url>
-     https://github.com/ddksproject/UpdateRME/releases/download/2.3.3/SIMRS-RME_v2.2024_10_22.07_02.exe
+     https://github.com/ddksproject/UpdateRME/releases/download/2.3.4/SIMRS-RME_v2.2024_10_22.10_57.exe
    </url>
    <changelog>https://github.com/ddksproject/UpdateRME/releases/tag/v2.1.1</changelog>
    <mandatory>false</mandatory>
